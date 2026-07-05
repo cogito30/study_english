@@ -1,4 +1,6 @@
 # Day01: 나의 하루 시작하기
+- 일상생활 및 일과 (Everyday Life & Routine)
+
 
 ## 명사
 1. routine: 일과, 판에 박힌 일
