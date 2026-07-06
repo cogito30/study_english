@@ -64,4 +64,7 @@
 - I take some time to reflect on my day at night.
 - 저는 밤에 하루를 되돌아보는 시간을 갖습니다.
 
-
+## Tip
+- 오늘 아침에 어떻게 일어났나요? 라는 질문에 대한 답변
+- I got up at 7 -> I hit the snooze button a few times because I was tired
+- 너무 피곤해서 알람 미루기 버튼을 몇번 눌렀어요
