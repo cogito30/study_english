@@ -62,3 +62,6 @@
 5. scroll: 스크롤하다, 화면을 넘기다
 - I fell asleep while scrolling through my phone.
 - 저는 휴대폰 화면을 스크롤하다가 잠들었습니다.
+
+## Tip
+- '문자를 보내다'를 이야기할 떄 send a text message보다 I will text you later처럼 동사 'text'를 자주 활용
