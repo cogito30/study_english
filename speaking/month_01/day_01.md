@@ -1,5 +1,5 @@
-# Day01: 나의 하루 시작하기
-- 일상생활 및 일과 (Everyday Life & Routine)
+# Day01: 
+- 
 
 
 ## 명사
